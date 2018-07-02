@@ -9,7 +9,10 @@ This bot posts messages sent to designated Twilio number and posts them to your 
 - Firebase
 
 # Demo
-<img src="Phone.jpg" alt="Phone Screenshot" height="500px"/>
+Screenshot of Phone
+<img src="Phone.jpg" alt="Phone Screenshot" height="400px"/>
+
+Screenshot of Slack channel
 <img src="Slack.png" alt="Slack Screenshot"/>
 
 # Run with
