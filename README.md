@@ -10,7 +10,7 @@ This bot posts messages sent to designated Twilio number and posts them to your 
 
 # Demo
 Screenshot of Phone
-<img src="Phone.jpg" alt="Phone Screenshot" height="400px"/>
+<img src="Phone.jpg" alt="Phone Screenshot" height="500px"/>
 
 Screenshot of Slack channel
 <img src="Slack.png" alt="Slack Screenshot"/>
