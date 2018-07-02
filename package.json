@@ -1,0 +1,28 @@
+{
+  "name": "slack-twilio-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charmaine/Slack-Twilio-Bot.git"
+  },
+  "author": "Charmaine Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charmaine/Slack-Twilio-Bot/issues"
+  },
+  "homepage": "https://github.com/charmaine/Slack-Twilio-Bot#readme",
+  "dependencies": {
+    "@slack/client": "^3.10.0",
+    "@slack/events-api": "^1.0.1",
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "firebase": "^4.1.2",
+    "twilio": "^3.3.0"
+  }
+}
